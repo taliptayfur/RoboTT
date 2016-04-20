@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## gradle
 /.gradle
 /build
@@ -26,3 +27,17 @@
 /*.ipr
 /*.iws
 /atlassian-ide-plugin.xml
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 4a165e6a6837696abcb158d5902e80870e367010
