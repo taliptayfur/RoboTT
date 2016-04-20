@@ -1,0 +1,16 @@
+[
+{
+  "modid": "taifuru_robo_tt",
+  "name": "Robo TT",
+  "description": "Mine with robots and stuff.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Taifuru"],
+  "credits": "The Forge and FML guys, for giving this opportunity",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
